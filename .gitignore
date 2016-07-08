@@ -1,0 +1,8 @@
+node_modules
+public
+.tmp
+.idea
+/server/config/local.env.js
+npm-debug.log
+mongo.sh
+sample_data
